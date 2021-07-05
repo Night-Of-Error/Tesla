@@ -19,6 +19,7 @@ const CarsList = (props) => {
          snapToAlignment={'start'}
          decelerationRate={'fast'}
          snapToInterval={Dimensions.get('window').height = 965}
+         /*methana height eke 965 ain karanna ethakota thamange device ekata adjust wenawa. mage pixel 4 simulator dimensions awulk nisai wenama damme*/
          showsHorizontalScrollIndicator= {false}
          
          
